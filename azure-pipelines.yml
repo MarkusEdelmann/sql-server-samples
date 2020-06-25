@@ -3,7 +3,7 @@
 # De *trigger* geeft aan waardoor deze pipeline automatisch uitgevoerd wordt. In dit geval: een *commit* tegen *master*
 trigger:
 - master
-BEwuste fout
+
 # De *pool* geeft aan van wat voor VM-image gebruik gemaakt moet worden om deze pipeline uit te kunnen voeren. In dit geval dus een image met Visual Studio 2017
 pool:
   name: Hosted VS2017
